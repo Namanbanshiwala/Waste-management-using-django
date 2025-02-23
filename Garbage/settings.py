@@ -26,7 +26,7 @@ SECRET_KEY = 'isq5!(n)@bzyte3^ms30kx6a_90)c*=q0%iqhswkyvha&9=r%+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["54.172.30.175"]    #this is a AWS public ip
+ALLOWED_HOSTS = ["18.233.147.233"]    #this is a AWS public ip
 
 
 # Application definition
